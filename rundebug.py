@@ -1,3 +1,3 @@
 from api.index import app
 
-app.run(debug=True, port=9000)
+app.run(debug=False, host='0.0.0.0')
