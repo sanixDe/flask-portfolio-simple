@@ -1,6 +1,5 @@
-title: Flask CRUD app
-shortDesc: Flask Application to do simple Create, Read, Update and Delete on a database.
-date: 2023-04-25
+title: Java File Syncer
+shortDesc: Programmed a local file-based storage system hosted on local area network such as Dropbox/Google Drive using Java
+date: 2022-06-25
 tech: Python, Flask, Bootstrap, Supabase
-codeLink: https://github.com/buildwithdan/MandalorianBounty/
-webLink: https://mandalorian-bounty.vercel.app/
+codeLink: https://github.com/sanixDe/javaFileSync
